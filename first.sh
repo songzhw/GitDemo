@@ -1,2 +1,2 @@
 kotlinc -version
-kotlinc -script two.kts
+kotlinc -script two.kts "one" "two"
